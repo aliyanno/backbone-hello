@@ -22,7 +22,6 @@
 
     initialize: function () {
       _.bindAll(this, 'render', 'addValue');
-
       this.render();
     },
 
